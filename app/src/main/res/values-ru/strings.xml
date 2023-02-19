@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="uzbek">Узбекский</string>
+    <string name="russian">Русский</string>
+    <string name="english">Английский</string>
+
+    <string name="badiy_ta_lim_tarixi">История художественного образования</string>
+    <string name="home">Главная</string>
+    <string name="_2022_copyright_online_muzey">© 2022 Copyright: Online Muzey</string>
+    <string name="contact">Контакт</string>
+    <string name="try_once_again">Попробуйте еще раз!</string>
+    <string name="author">Автор:</string>
+    <string name="name">Названия:</string>
+    <string name="technique">Техника:</string>
+    <string name="year">Год:</string>
+    <string name="size">Размер:</string>
+    <string name="about">О работе:</string>
+    <string name="show_more">Больше…</string>
+    <string name="show_less">Меньше…</string>
+    <string name="loading">Загрузка…</string>
+    <string name="contact_info">Мухамедова Муниса Сабировна \nПрофессор кафедры Музееведения Национального института художеств и дизайна имени Камалиддина Бехзада (Узбекистан, Ташкент)\n\nEmail: munisa.muhamedova@mail.ru\nМоб. тел. +998 90 351 26 82\n                   +998 93 546 74 93</string>
+
+
+</resources>

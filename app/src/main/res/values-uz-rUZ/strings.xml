@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="uzbek">O\'zbekcha</string>
+    <string name="russian">Ruscha</string>
+    <string name="english">Inglizcha</string>
+    <string name="badiy_ta_lim_tarixi">Badiy ta\'lim tarixi</string>
+    <string name="home">Bosh Sahifa</string>
+    <string name="_2022_copyright_online_muzey">© 2022 Copyright: Online Muzey</string>
+    <string name="contact">Aloqa</string>
+    <string name="try_once_again">Yana bir bor urunib ko\'ring!</string>
+    <string name="author">Avtor:</string>
+    <string name="name">Nomi:</string>
+    <string name="technique">Texnikasi:</string>
+    <string name="year">Yili:</string>
+    <string name="size">O\'lchami:</string>
+    <string name="about">Haqida:</string>
+    <string name="show_more">Ko\'proq…</string>
+    <string name="show_less">Kamroq…</string>
+    <string name="loading">Yuklanmoqda…</string>
+    <string name="contact_info">Muxamedova Munisa Sabirovna \nKamoliddin Behzod nomidagi Milliy rassomlik va dizayn instituti Muzeyshunoslik kafedrasi professori.\n\nEmail: munisa.muhamedova@mail.ru\nMob. tel. +998 90 351 26 82\n                   +998 93 546 74 93</string>
+
+</resources>
