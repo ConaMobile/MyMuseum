@@ -22,8 +22,7 @@
     <style name="Theme.OnlineMuzey.NoActionBar">
         <item name="windowActionBar">true</item>
         <item name="windowNoTitle">true</item>
-<!--        <item name="android:statusBarColor">#450E3149</item>-->
-        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        <item name="android:statusBarColor">#450E3149</item>
     </style>
 
     <style name="Theme.OnlineMuzey.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar">
