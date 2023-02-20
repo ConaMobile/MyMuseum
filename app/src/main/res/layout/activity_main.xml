@@ -28,13 +28,13 @@
             android:layout_height="match_parent"
             android:orientation="vertical">
 
-<!--            <TextView-->
-<!--                android:layout_alignParentBottom="true"-->
-<!--                android:layout_centerHorizontal="true"-->
-<!--                android:layout_marginBottom="16dp"-->
-<!--                android:layout_width="wrap_content"-->
-<!--                android:layout_height="wrap_content"-->
-<!--                android:text="@string/_2022_copyright_online_muzey" />-->
+            <TextView
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true"
+                android:layout_marginBottom="16dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/_2022_copyright_online_muzey" />
 
         </RelativeLayout>
     </com.google.android.material.navigation.NavigationView>

@@ -7,6 +7,7 @@ import android.graphics.drawable.BitmapDrawable
 import android.graphics.drawable.Drawable
 import android.text.Html
 import android.widget.TextView
+import com.museumonline.museummm.R
 import com.squareup.picasso.Picasso
 import io.michaelrocks.paranoid.Obfuscate
 import kotlinx.coroutines.Dispatchers
@@ -25,7 +26,7 @@ class ImageGetter(
         val holder = BitmapDrawablePlaceHolder(res, null)
         GlobalScope.launch(Dispatchers.IO) {
             runCatching {
-                val bitmap = Picasso.get().load("https://first.mrdimuseum.uz/$url").get()
+                val bitmap = Picasso.get().load("https://first.mrdimuseum.uz/$url").placeholder(R.drawable.placeholder).get()
                 val drawable = BitmapDrawable(res, bitmap)
                 val width = getScreenWidth() - 150
                 val aspectRatio: Float =

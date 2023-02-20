@@ -1,9 +1,12 @@
 package com.museumonline.museummm.network
 
+import androidx.annotation.Keep
 import io.michaelrocks.paranoid.Obfuscate
 import javax.inject.Inject
 
+
 @Obfuscate
+@Keep
 class NetworkRepository @Inject constructor(private val apiService: ApiService) {
 
     suspend fun getHistory() = apiService.getHistory()
